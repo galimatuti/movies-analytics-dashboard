@@ -7,14 +7,6 @@ Power BI project analyzing sales and rental data for a film rental company.
 - Created custom DAX measures and connected tables for accurate insights.
 - Focused on delivering clear, actionable visualizations for business decisions.
 
-## 🖼 Dashboard Preview
-
-![Dashboard Screenshot](Film Dashboard.png)
-
-## 📂 Download the Report
-
-[📥 Download .pbix file](./Film_Rental_Analysis.pbix)
-
 ## 🛠 Tools
 - Power BI  
 - DAX  
